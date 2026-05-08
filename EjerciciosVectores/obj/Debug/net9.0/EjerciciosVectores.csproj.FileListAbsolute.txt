@@ -1,0 +1,14 @@
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\bin\Debug\net9.0\EjerciciosVectores.exe
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\bin\Debug\net9.0\EjerciciosVectores.deps.json
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\bin\Debug\net9.0\EjerciciosVectores.runtimeconfig.json
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\bin\Debug\net9.0\EjerciciosVectores.dll
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\bin\Debug\net9.0\EjerciciosVectores.pdb
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\obj\Debug\net9.0\EjerciciosVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\obj\Debug\net9.0\EjerciciosVectores.AssemblyInfoInputs.cache
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\obj\Debug\net9.0\EjerciciosVectores.AssemblyInfo.cs
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\obj\Debug\net9.0\EjerciciosVectores.csproj.CoreCompileInputs.cache
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\obj\Debug\net9.0\EjerciciosVectores.dll
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\obj\Debug\net9.0\refint\EjerciciosVectores.dll
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\obj\Debug\net9.0\EjerciciosVectores.pdb
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\obj\Debug\net9.0\EjerciciosVectores.genruntimeconfig.cache
+C:\Users\labcisco.UAM\Downloads\8deMayo\EjerciciosVectores\obj\Debug\net9.0\ref\EjerciciosVectores.dll
