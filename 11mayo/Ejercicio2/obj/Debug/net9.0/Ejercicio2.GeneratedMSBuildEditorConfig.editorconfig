@@ -1,0 +1,19 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ejercicio2
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\
+=======
+build_property.ProjectDir = C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\
+>>>>>>> 19534c5d68c501c5e465c1a8e5d4a776bceb4e6a
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 

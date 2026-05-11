@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\bin\Debug\net9.0\Ejercicio2.exe
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\bin\Debug\net9.0\Ejercicio2.deps.json
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\bin\Debug\net9.0\Ejercicio2.runtimeconfig.json
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\bin\Debug\net9.0\Ejercicio2.dll
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\bin\Debug\net9.0\Ejercicio2.pdb
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.dll
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\obj\Debug\net9.0\refint\Ejercicio2.dll
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.pdb
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\labcisco.UAM\Downloads\11deMayo\Ejercicio2\obj\Debug\net9.0\ref\Ejercicio2.dll
+=======
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\bin\Debug\net9.0\Ejercicio2.exe
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\bin\Debug\net9.0\Ejercicio2.deps.json
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\bin\Debug\net9.0\Ejercicio2.runtimeconfig.json
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\bin\Debug\net9.0\Ejercicio2.dll
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\bin\Debug\net9.0\Ejercicio2.pdb
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.dll
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\obj\Debug\net9.0\refint\Ejercicio2.dll
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.pdb
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\obj\Debug\net9.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\labcisco.UAM\Downloads\8deMayo\Ejercicio2\obj\Debug\net9.0\ref\Ejercicio2.dll
+>>>>>>> 19534c5d68c501c5e465c1a8e5d4a776bceb4e6a
